@@ -17,6 +17,8 @@ function classifyTriangle(a, b, c) {
     } else {
         return "Scalene";
     }
+
+    console.log("pls work");
 }
 
 module.exports = {classifyTriangle} ;
