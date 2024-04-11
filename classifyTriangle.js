@@ -18,6 +18,8 @@ function classifyTriangle(a, b, c) {
         return "Scalene";
     }
 
+    console.log("pls work");
+
 }
 
 module.exports = {classifyTriangle} ;
